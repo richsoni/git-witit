@@ -25,11 +25,6 @@ Git WitIt provides 27 commands proxies that rhyme with git, making a workflow mo
       <tr> <td><code>knit</code></td>   <td>rebase</td>      </tr>
       <tr> <td><code>legit</code></td>  <td>pull</td>        </tr>
       <tr> <td><code>mitt</code></td>   <td>fetch</td>  </tr>
-    </tbody>
-  </table>
-
-  <table class='flush col-xs-12 col-sm-6'>
-    <tbody>
       <tr> <td><code>nit</code></td>    <td>prune</td>  </tr>
       <tr> <td><code>omit</code></td>   <td>rm</td>     </tr>
       <tr> <td><code>permit</code></td> <td>add</td>    </tr>
